@@ -1,6 +1,8 @@
+// If-else and Loops
+
 import java.util.Scanner;
 
-public class TypeCasting{
+public class DecisionMaking{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 

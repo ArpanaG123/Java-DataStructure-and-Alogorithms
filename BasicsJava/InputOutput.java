@@ -1,3 +1,5 @@
+// Input/Output example and Java Variables.
+
 import java.util.Scanner;
 
 public class InputOutput{
